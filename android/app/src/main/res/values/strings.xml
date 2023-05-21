@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medical</string>
+    <style name="DatePickerTheme" parent="DatePickerBaseTheme">
+    <item name="android:colorControlNormal">#ffc0cb</item>
+    <item name="colorAccent">#00BFFF</item>
+</style>
+</resources>

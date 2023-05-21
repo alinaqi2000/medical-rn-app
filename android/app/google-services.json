@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545305251023",
+    "project_id": "push-notif-a38dc",
+    "storage_bucket": "push-notif-a38dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545305251023:android:6e6171df27429275bafbba",
+        "android_client_info": {
+          "package_name": "com.medical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545305251023-56seb76fl7169p2mbjut54faaiifvafs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOann_KqrpONDzGC0-2QIMEBeVaz2kUAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545305251023-56seb76fl7169p2mbjut54faaiifvafs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
